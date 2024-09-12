@@ -264,6 +264,16 @@ print(ceil(num1))
 # print("I love {celebrity}")
 # # On to codehs.com
 
+##########################################################################################
+
+
+num3 = int(input("eneter a number"))
+num4 = int(input("eneter a number"))
+print(num3+num4)
+print(num3-num4)
+print(num3*num4)
+print(num3%num4)
+print(num3/num4)
 
 
 
